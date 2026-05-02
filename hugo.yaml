@@ -1,4 +1,5 @@
 # Hugo configuration file
+baseURL: "https://rfaustodev.com/"
 title: My Site
 
 # import hextra as module
